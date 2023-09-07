@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "308922864486",
+    "project_id": "work1-814b3",
+    "storage_bucket": "work1-814b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308922864486:android:67341bd88c7d7bde9d2ea7",
+        "android_client_info": {
+          "package_name": "com.example.notifcation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308922864486-r3hmhp11d4ess44mq3uv7oih2g8abllr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfXJtJ5u95u7g2cH-RWfg0en6GKgznN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308922864486-r3hmhp11d4ess44mq3uv7oih2g8abllr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308922864486-6r3d90hcg0vd44a63p785oj8ej4oqmdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.upwork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
