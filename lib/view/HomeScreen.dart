@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:notifcation/notification_servcies.dart';
+import 'package:notifcation/models/notification_servcies.dart';
 import 'package:notifcation/widgets/new_transaction.dart';
 
-import 'models/transaction.dart';
-import 'widgets/chart.dart';
-import 'widgets/transaction_list.dart';
+import '../models/transaction.dart';
+import '../widgets/chart.dart';
+import '../widgets/transaction_list.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
